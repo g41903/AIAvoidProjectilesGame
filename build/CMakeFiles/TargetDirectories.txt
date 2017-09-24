@@ -1,0 +1,4 @@
+/home/hejianzhi/Desktop/AIAvoidProjectilesGame/build/ThirdParty/glfw/src/CMakeFiles/glfw.dir
+/home/hejianzhi/Desktop/AIAvoidProjectilesGame/build/CMakeFiles/glfw_test.dir
+/home/hejianzhi/Desktop/AIAvoidProjectilesGame/build/CMakeFiles/missiledefense.dir
+/home/hejianzhi/Desktop/AIAvoidProjectilesGame/build/ThirdParty/glfw/CMakeFiles/uninstall.dir
